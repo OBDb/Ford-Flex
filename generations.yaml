@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Flex"
+
 generations:
   - name: "First Generation (Pre-Facelift)"
     start_year: 2009
