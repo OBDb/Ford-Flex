@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    FLEX_TOT: 0.1875
+  response: 7E805621E1C0003
+- expected_values:
+    FLEX_TOT: 15.9375
+  response: 7E805621E1C00FF
+- expected_values:
+    FLEX_TOT: 16
+  response: 7E805621E1C0100
+- expected_values:
+    FLEX_TOT: -3.75
+  response: 7E805621E1CFFC4

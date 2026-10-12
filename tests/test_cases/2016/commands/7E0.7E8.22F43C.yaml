@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    FLEX_CAT_TEMP: 122.5
+  response: 7E80562F43C0659
+- expected_values:
+    FLEX_CAT_TEMP: 344
+  response: 7E80562F43C0F00
+- expected_values:
+    FLEX_CAT_TEMP: 548.7
+  response: 7E80562F43C16FF
+- expected_values:
+    FLEX_CAT_TEMP: 882.9
+  response: 7E80562F43C240D

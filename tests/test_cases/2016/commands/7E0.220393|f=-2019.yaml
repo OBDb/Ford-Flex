@@ -1,0 +1,14 @@
+command_id: 7E0.220393|f=-2019
+test_cases:
+- expected_values:
+    FLEX_AC_P: 35.67929
+  response: 7E805620393007B
+- expected_values:
+    FLEX_AC_P: 74.25933
+  response: '7E8056203930100'
+- expected_values:
+    FLEX_AC_P: 222.48791
+  response: 7E80562039302FF
+- expected_values:
+    FLEX_AC_P: 223.06806
+  response: '7E8056203930301'

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 0
+  response: 7E8056216E80000
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 26.81792
+  response: 7E8056216E82253
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 32.9677
+  response: 7E8056216E82A32
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 34.16104
+  response: 7E8056216E82BB9
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 46.25306
+  response: 7E8056216E83B33
+- expected_values:
+    FLEX_CMD_GEN_DUTY: 46.98859
+  response: 7E8056216E83C24

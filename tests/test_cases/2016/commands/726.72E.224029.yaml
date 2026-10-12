@@ -1,0 +1,8 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    FLEX_BATT_TEMP: -17
+  response: '72E0462402917'
+- expected_values:
+    FLEX_BATT_TEMP: 42
+  response: '72E0462402952'

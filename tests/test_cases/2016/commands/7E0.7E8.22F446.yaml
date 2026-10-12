@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F446
+test_cases:
+- expected_values:
+    FLEX_AAT_7E0: 3
+  response: 7E80462F4462B
+- expected_values:
+    FLEX_AAT_7E0: 24
+  response: 7E80462F44640

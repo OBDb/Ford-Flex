@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    FLEX_ETC_ANG_ACT: 0.04883
+  response: 7E80562093C0019
+- expected_values:
+    FLEX_ETC_ANG_ACT: 2
+  response: 7E80562093C0400
+- expected_values:
+    FLEX_ETC_ANG_ACT: 2.49805
+  response: 7E80562093C04FF
+- expected_values:
+    FLEX_ETC_ANG_ACT: 81.96094
+  response: 7E80562093CA3EC

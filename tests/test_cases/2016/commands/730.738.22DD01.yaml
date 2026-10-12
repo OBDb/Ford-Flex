@@ -1,0 +1,11 @@
+command_id: 730.738.22DD01
+test_cases:
+- expected_values:
+    FLEX_ODO_PSCM: 268639
+  response: 7380662DD0104195F
+- expected_values:
+    FLEX_ODO_PSCM: 268771
+  response: 7380662DD010419E3
+- expected_values:
+    FLEX_ODO_PSCM: 268821
+  response: 7380662DD01041A15

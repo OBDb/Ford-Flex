@@ -1,0 +1,14 @@
+command_id: 7E0.22030F
+test_cases:
+- expected_values:
+    FLEX_CL: 0.75519
+  response: 7E80562030F60AA
+- expected_values:
+    FLEX_CL: 0.91403
+  response: 7E80562030F74FF
+- expected_values:
+    FLEX_CL: 0.91406
+  response: 7E80562030F7500
+- expected_values:
+    FLEX_CL: 1.41412
+  response: 7E80562030FB502

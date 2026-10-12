@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2204F7
+test_cases:
+- expected_values:
+    FLEX_GEN_CURRENT: 36.66014
+  response: 7E8056204F7092B
+- expected_values:
+    FLEX_GEN_CURRENT: 59.94956
+  response: 7E8056204F70EFE
+- expected_values:
+    FLEX_GEN_CURRENT: 60.0589
+  response: 7E8056204F70F05
+- expected_values:
+    FLEX_GEN_CURRENT: 80.39614
+  response: 7E8056204F7141B

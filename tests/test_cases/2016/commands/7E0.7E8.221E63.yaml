@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221E63
+test_cases:
+- expected_values:
+    FLEX_AWD_CLU_CMD_CTRL_SIG: 40.78431
+  response: 7E804621E6368
+- expected_values:
+    FLEX_AWD_CLU_CMD_CTRL_SIG: 96.07843
+  response: 7E804621E63F5

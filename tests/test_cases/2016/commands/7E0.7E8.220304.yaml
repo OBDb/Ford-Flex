@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    FLEX_CMD_GEN_V: 12.79243
+  response: '7E8056203046666'
+- expected_values:
+    FLEX_CMD_GEN_V: 13.49076
+  response: 7E8056203046BFD
+- expected_values:
+    FLEX_CMD_GEN_V: 14.24179
+  response: '7E8056203047200'

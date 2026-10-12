@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    FLEX_ODO: 248976
+  response: 7E80662DD0103CC90
+- expected_values:
+    FLEX_ODO: 254976
+  response: 7E80662DD0103E400
+- expected_values:
+    FLEX_ODO: 255999
+  response: 7E80662DD0103E7FF
+- expected_values:
+    FLEX_ODO: 261888
+  response: 7E80662DD0103FF00
+- expected_values:
+    FLEX_ODO: 263480
+  response: 7E80662DD01040538

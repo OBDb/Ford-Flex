@@ -1,0 +1,20 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    FLEX_ODO_V3: 248976.1
+  response: 7280662404C25FDA1
+- expected_values:
+    FLEX_ODO_V3: 249420.7
+  response: 7280662404C260EFF
+- expected_values:
+    FLEX_ODO_V3: 249984
+  response: 7280662404C262500
+- expected_values:
+    FLEX_ODO_V3: 255589.2
+  response: 7280662404C26FFF4
+- expected_values:
+    FLEX_ODO_V3: 255591.2
+  response: 7280662404C270008
+- expected_values:
+    FLEX_ODO_V3: 268698
+  response: 7280662404C290004

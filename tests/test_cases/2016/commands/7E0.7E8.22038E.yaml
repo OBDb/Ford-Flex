@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    FLEX_EVAP_V: 1.466
+  response: 7E80562038E05BA
+- expected_values:
+    FLEX_EVAP_V: 2.046
+  response: 7E80562038E07FE
+- expected_values:
+    FLEX_EVAP_V: 2.562
+  response: 7E80562038E0A02
+- expected_values:
+    FLEX_EVAP_V: 2.832
+  response: 7E80562038E0B10

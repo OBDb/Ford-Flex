@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    FLEX_PCM_CYL_HEAD_T_CORR: 2.0625
+  response: '7E8056203340084'
+- expected_values:
+    FLEX_PCM_CYL_HEAD_T_CORR: 31.98438
+  response: 7E80562033407FF
+- expected_values:
+    FLEX_PCM_CYL_HEAD_T_CORR: 36
+  response: '7E8056203340900'
+- expected_values:
+    FLEX_PCM_CYL_HEAD_T_CORR: 96.01562
+  response: '7E8056203341801'

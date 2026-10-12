@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    FLEX_LPFP_DUTY: 34.80225
+  response: 7E8056203072C8C
+- expected_values:
+    FLEX_LPFP_DUTY: 35.1532
+  response: 7E8056203072CFF
+- expected_values:
+    FLEX_LPFP_DUTY: 35.15625
+  response: 7E8056203072D00
+- expected_values:
+    FLEX_LPFP_DUTY: 48.99902
+  response: 7E8056203073EB8

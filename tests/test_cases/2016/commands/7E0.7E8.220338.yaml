@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    FLEX_ETC_TRIM_LEARNED: 0.05273
+  response: 7E805620338001B
+- expected_values:
+    FLEX_ETC_TRIM_LEARNED: 0.49805
+  response: 7E80562033800FF
+- expected_values:
+    FLEX_ETC_TRIM_LEARNED: 0.50391
+  response: '7E8056203380102'
