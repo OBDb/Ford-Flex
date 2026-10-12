@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    FLEX_GEN_CTRL: 21.58374
+  response: 7E8056203781BA0
+- expected_values:
+    FLEX_GEN_CTRL: 30.56273
+  response: 7E805620378271E
+- expected_values:
+    FLEX_GEN_CTRL: 34.91793
+  response: 7E8056203782CB1
+- expected_values:
+    FLEX_GEN_CTRL: 50.5045
+  response: 7E80562037840A4

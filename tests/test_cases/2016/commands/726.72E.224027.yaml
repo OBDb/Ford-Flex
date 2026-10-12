@@ -1,0 +1,11 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    FLEX_BATT_AGE: 1825
+  response: 72E056240270D33
+- expected_values:
+    FLEX_BATT_AGE: 1825
+  response: 72E056240270DEE
+- expected_values:
+    FLEX_BATT_AGE: 1825
+  response: 72E056240270E05

@@ -1,0 +1,8 @@
+command_id: 7DF.221310
+test_cases:
+- expected_values:
+    FLEX_EOT: 0
+  response: '7E80462131000'
+- expected_values:
+    FLEX_EOT: 2
+  response: '7E80462131002'

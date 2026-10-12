@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    FLEX_MAP_V: 0.53809
+  response: '7E8056203010227'
+- expected_values:
+    FLEX_MAP_V: 0.75
+  response: '7E8056203010300'
+- expected_values:
+    FLEX_MAP_V: 1.49902
+  response: 7E80562030105FF
+- expected_values:
+    FLEX_MAP_V: 3.75293
+  response: 7E8056203010F03

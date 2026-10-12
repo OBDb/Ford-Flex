@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    FLEX_OAR: 0.01501
+  response: 7E8056203E800F6
+- expected_values:
+    FLEX_OAR: 0.10944
+  response: 7E8056203E80701
+- expected_values:
+    FLEX_OAR: 0.14056
+  response: 7E8056203E808FF
+- expected_values:
+    FLEX_OAR: -0.0069
+  response: 7E8056203E8FF8F

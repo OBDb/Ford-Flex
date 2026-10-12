@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    FLEX_ECT: 4.70312
+  response: 7E80562038F012D
+- expected_values:
+    FLEX_ECT: 56
+  response: 7E80562038F0E00
+- expected_values:
+    FLEX_ECT: 63.98438
+  response: 7E80562038F0FFF
+- expected_values:
+    FLEX_ECT: 92.76562
+  response: 7E80562038F1731

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FLEX_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    FLEX_RPM: 767.75
+  response: 7E80562F40C0BFF
+- expected_values:
+    FLEX_RPM: 3686.25
+  response: 7E80562F40C3999

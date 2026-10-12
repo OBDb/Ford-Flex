@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    FLEX_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    FLEX_EVAP_PURGE_CMD: 10.93445
+  response: 7E8056211660DFF
+- expected_values:
+    FLEX_EVAP_PURGE_CMD: 98.67554
+  response: 7E8056211667E4E
