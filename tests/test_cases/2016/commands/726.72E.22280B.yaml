@@ -16,6 +16,11 @@ test_cases:
     72E100C62280B3755E3
     72E21D302A80046F200
 - expected_values:
+    FLEX_TYRE_T: 31
+  response: |-
+    72E100C62280B3755E3
+    72E21D3031B47053D00
+- expected_values:
     FLEX_TYRE_T: 17
   response: |-
     72E100C62280B3755E4
@@ -35,11 +40,6 @@ test_cases:
   response: |-
     72E100C62280B3755E4
     72E214802FD00466000
-- expected_values:
-    FLEX_TYRE_T: 36
-  response: |-
-    72E100C62280B3755E4
-    72E214803114C46F700
 - expected_values:
     FLEX_TYRE_T: -40
   response: |-
