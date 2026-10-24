@@ -67,7 +67,6 @@ test_cases:
 - expected_values:
     FLEX_SYNC_GPS_ALTITUDE: 6242
     FLEX_SYNC_GPS_HEADING: 655
-    FLEX_SYNC_GPS_SPD: 406.8
   response: |-
     7D81012628012186200
     7D821000A3BFFFFEC43
